@@ -1,0 +1,240 @@
+    <!-- projects -->
+    <div class="section" id="projects">
+        <div class="container">
+            <div class="col-md-12">
+                <h4>03</h4>
+                <h1 class="size-50">My <br /> Projects</h1> 
+            </div>
+            <div class="main-container portfolio-inner clearfix">
+                <div class="portfolio-div">
+                    <div class="portfolio">
+                        <div class="categories-grid wow fadeInLeft">
+                            <nav class="categories">
+                                <ul class="portfolio_filter">
+                                    <li><a href="" class="active" data-filter="*">All</a></li>
+                                    <li><a href="" data-filter=".meanstack">MEAN Stack</a></li>
+                                    <li><a href="" data-filter=".logo">Logo</a></li>
+                                    <li><a href="" data-filter=".graphics">Graphics</a></li>
+                                    <li><a href="" data-filter=".ads">Advertising</a></li>
+                                    <li><a href="" data-filter=".fashion">Fashion</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <div class="no-padding portfolio_container clearfix" data-aos="fade-up">
+
+                        <!-- START OF PORTFOLIO CONTAINER -->
+
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6  fashion logo meanstack">
+
+                                <!-- Call the modal with id="demo01" -->
+                                <a id="demo01" href="#animatedModal" class="portfolio_item"> <img src="img/portfolio/01.jpg" alt="image" class="img-responsive" />
+                                    
+                                    <div class="portfolio_item_hover">
+                                        <div class="portfolio-border clearfix">
+                                            <div class="item_info"> <span>Dad's Garage Project</span> <em>MEAN Stack</em> </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 ads graphics logo">
+                                <a id="demo02" href="#animatedModal" class="portfolio_item"> <img src="img/portfolio/03.jpg" alt="image" class="img-responsive" />
+                                    <div class="portfolio_item_hover">
+                                        <div class="portfolio-border clearfix">
+                                            <div class="item_info"> <span>Floating mockups</span> <em>Ads / Graphics</em> </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 photography logo">
+                                <a id="demo03" href="#animatedModal" class="portfolio_item"> <img src="img/portfolio/02.jpg" alt="image" class="img-responsive" />
+                                    <div class="portfolio_item_hover">
+                                        <div class="portfolio-border clearfix">
+                                            <div class="item_info"> <span>Photorealistic smartwatch</span> <em>Photography</em> </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 fashion ads logo">
+                                <a id="demo04" href="#animatedModal" class="portfolio_item"> <img src="img/portfolio/04.jpg" alt="image" class="img-responsive" />
+                                    <div class="portfolio_item_hover">
+                                        <div class="portfolio-border clearfix">
+                                            <div class="item_info"> <span>Held by hands</span> <em>Fashion / Ads</em> </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 graphics ads">
+                                <a id="demo05" href="#animatedModal" class="portfolio_item"> <img src="img/portfolio/05.jpg" alt="image" class="img-responsive" />
+                                    <div class="portfolio_item_hover">
+                                        <div class="portfolio-border clearfix">
+                                            <div class="item_info"> <span>Mobile devices</span> <em>Graphics / Ads</em> </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 photography">
+                                <a id="demo06" href="#animatedModal" class="portfolio_item"> <img src="img/portfolio/010.jpg" alt="image" class="img-responsive" />
+                                    <div class="portfolio_item_hover">
+                                        <div class="portfolio-border clearfix">
+                                            <div class="item_info"> <span>Photorealistic smartwatch</span> <em>Photography</em> </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 graphics ads">
+                                <a id="demo07" href="#animatedModal" class="portfolio_item"> <img src="img/portfolio/06.jpg" alt="image" class="img-responsive" />
+                                    <div class="portfolio_item_hover">
+                                        <div class="portfolio-border clearfix">
+                                            <div class="item_info"> <span>Mobile devices</span> <em>Graphics / Ads</em> </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 graphics ads">
+                                <a id="demo08" href="#animatedModal" class="portfolio_item"> <img src="img/portfolio/07.jpg" alt="image" class="img-responsive" />
+                                    <div class="portfolio_item_hover">
+                                        <div class="portfolio-border clearfix">
+                                            <div class="item_info"> <span>Mobile devices</span> <em>Graphics / Ads</em> </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 graphics ads">
+                                <a id="demo09" href="#animatedModal" class="portfolio_item"> <img src="img/portfolio/08.jpg" alt="image" class="img-responsive" />
+                                    <div class="portfolio_item_hover">
+                                        <div class="portfolio-border clearfix">
+                                            <div class="item_info"> <span>Mobile devices</span> <em>Graphics / Ads</em> </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                        </div>
+                        <!-- end portfolio_container -->
+                    </div>
+                    <!-- portfolio -->
+                </div>
+                <!-- end portfolio div -->
+            </div>
+            <!-- end main container -->
+        </div>
+    </div>
+    <!-- ./projects -->
+    
+    <!-- contact -->
+    <div class="section" id="contact">
+        <div class="container">
+            <div class="col-md-12">
+                <h4>04</h4>
+                <h1 class="size-50">Contact  Me</h1>
+                <div class="h-50"></div>
+            </div>
+            <div class="col-md-4" data-aos="fade-up">
+
+                <h3>Phone Number</h3>
+                <p>+20 5555 569 42</p>
+                <h3> Mobile Numberr</h3>
+                <p>+20 5555 569 42</p>
+                <h3>Email</h3>
+                <p>mail@info.me </p>
+
+                <h3>Social Network</h3>
+
+                <ul class="social">
+                    <li><a href="#"><i class="ion-social-facebook"></i></a></li>
+                    <li><a href="#"><i class="ion-social-twitter"></i></a></li>
+                    <li><a href="#"><i class="ion-social-instagram"></i></a></li>
+                    <li><a href="#"><i class="ion-social-dribbble"></i></a></li>
+                </ul>
+                
+                <div class="clearfix"></div>
+                <div class="h-50"></div>
+                <div> Shared by <i class="fa fa-love"></i><a href="https://bootstrapthemes.co">BootstrapThemes</a>
+</div>
+            </div>
+            <div class="col-md-8" data-aos="fade-up">
+                <form class="contact-bg" id="contact-form" name="contact" method="post" novalidate>
+                    <input type="text" name="name" class="form-control" placeholder="Your Name" />
+                    <input type="email" name="email" class="form-control" placeholder="Your E-mail" />
+                    <input type="text" name="phone" class="form-control" placeholder="Phone Number" />
+                    <textarea name="message" class="form-control" placeholder="Your Message" style="height:120px"></textarea>
+                    <button id="submit" type="submit" name="submit" class="btn btn-glance">Send</button>
+                    <div id="success">
+                        <p class="green textcenter"> Your message was sent successfully! I will be in touch as soon as I can. </p>
+                    </div>
+                    <div id="error">
+                        <p> Something went wrong, try refreshing and submitting the form again. </p>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- ./contact -->
+
+    <!--DEMO01-->
+    <div id="animatedModal" class="popup-modal">
+        <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID -->
+        <div id="btn-close-modal" class="close-animatedModal close-popup-modal"> <i class="ion-close-round"></i> </div>
+        <div class="clearfix"></div>
+        <div class="modal-content">
+            <div class="container">
+                <div class="portfolio-padding">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h2>Dad's Garage<br /> Project Using Node.js and Angular5</h2>
+                        <h3>-Capstone Project at Claim Academy</h3>
+                        <div class="h-50"></div>
+                        <p>This Capstone Project took a real world problem I had maintaining the four cars in Dad’s Garage since I change the oil on all the cars and do basic maintenance checks to keep the cars safe for our family members.</p>
+                        <p>Dad’s Garage sends email alerts and creates calendar events for the seven (7) key factors to watch for each car - saving time and providing dad with peace-of-mind. The web app calculates and estimates when oil changes, tire rotations and 5 other reminders are provided so you don’t have to manually.</p>
+                        <br /> <img src="img/portfolio/dg_home.png" alt="" class="img-responsive" />
+                        <br />
+                        <p>Dad’s Garage calculates mileage since the last oil change, tire rotation, oil check and tire check and automatically notifies the mechanic in the family to take action. It also calculates time since your last battery purchase, license plate tags were renewed and insurance card expiration date to again, keep the mechanic sleeping well at night.</p>
+                        <br /> <img src="img/portfolio/dg_addcar.png" alt="" class="img-responsive" />
+                        <br />
+                        <p>The Garage Summary page gives you a visual of the cars in your garage with hover-over information that pops up on both Red and Green maintenance items - providing mileage or dates since last event check - thus giving you a head start on future alerts. This feature is especially useful when an oil change can be done ahead of schedule and before your daughter drives her car back to college - in another state!</p>
+                        <br /> <img src="img/portfolio/dg_summary.png" alt="" class="img-responsive" />
+                        <br />
+                        <br /> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+    <!--  plugins  -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/jquery.form.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+
+    <!--  main script  -->
+    <script src="js/custom.js"></script>
+</body>
+
+</html>
