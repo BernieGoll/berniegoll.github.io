@@ -150,9 +150,9 @@
                             <nav class="categories">
                                 <ul class="portfolio_filter">
                                     
-                                    <li><a href="" class="active" data-filter=".meanstack">All</a></li>
+                                    <!--  <li><a href="" class="active" data-filter=".meanstack">All</a></li> -->
                                     
-                                    <!-- <li><a href="" class="active" data-filter="*">All</a></li> -->
+                                    <li><a href="" class="active" data-filter="*">All</a></li>
                                     <li><a href="" data-filter=".meanstack">MEAN Stack</a></li>
                                     <!--
                                     <li><a href="" data-filter=".logo">Logo</a></li>
@@ -169,8 +169,7 @@
 
                             <!-- single work -->
                             <div class="col-md-4 col-sm-6  meanstack"> 
-                                <a id="demo01" href="#animatedModal" class="portfolio_item"> <img src="img/portfolio/01.jpg" alt="image" class="img-responsive" />
-                                    
+                                <a id="demo01" href="#project1" class="portfolio_item"> <img src="img/portfolio/01.jpg" alt="image" class="img-responsive" />                            
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
                                             <div class="item_info"> <span>Dad's Garage Project</span> <em>MEAN Stack</em> </div>
@@ -180,6 +179,18 @@
                             </div>
                             <!-- end single work -->
                             
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6  all"> 
+                                <a id="demo02" href="#project2" class="portfolio_item"> <img src="img/portfolio/03.jpg" alt="image" class="img-responsive" />
+                                    
+                                    <div class="portfolio_item_hover">
+                                        <div class="portfolio-border clearfix">
+                                            <div class="item_info"> <span>Arduino Project</span> <em>Arduino UNO</em> </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <!-- end single work -->
 
                             <!-- single work -->
                             <!-- <div class="col-md-4 col-sm-6 ads graphics logo">
@@ -308,10 +319,10 @@
                 <h3>Social Network</h3>
 
                 <ul class="social">
-                    <li><a href="#"><i class="ion-social-facebook"></i></a></li>
-                    <li><a href="#"><i class="ion-social-twitter"></i></a></li>
-                    <li><a href="#"><i class="ion-social-instagram"></i></a></li>
-                    <li><a href="#"><i class="ion-social-dribbble"></i></a></li>
+                    <li><a href="https://www.facebook.com/berniegollwitzer.comLLC/" target="_blank"><i class="ion-social-facebook"></i></a></li>
+                    <li><a href="https://twitter.com/bgcomLLC" target="_blank"><i class="ion-social-twitter"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/berngoll/" target="_blank"><i class="ion-social-linkedin"></i></a></li>
+                    <li><a href="https://plus.google.com/u/0/b/110098171578559670030/+BernieGollwitzer" target="_blank"><i class="ion-social-googleplus"></i></a></li>
                 </ul>
                 
                 <div class="clearfix"></div>
@@ -330,7 +341,7 @@
                         <p class="green textcenter"> Your message was sent successfully! I will be in touch as soon as I can. </p>
                     </div>
                     <div id="error">
-                        <p> Something went wrong, try refreshing and submitting the form again. </p>
+                        <p> Please Use the Email You See to the Left to Contact Me - Thanks! </p>
                     </div>
                 </form>
             </div>
@@ -339,9 +350,9 @@
     <!-- ./contact -->
 
     <!--DEMO01-->
-    <div id="animatedModal" class="popup-modal">
+    <div id="project1" class="popup-modal">
         <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID -->
-        <div id="btn-close-modal" class="close-animatedModal close-popup-modal"> <i class="ion-close-round"></i> </div>
+        <div id="btn-close-modal" class= "close-project1  close-popup-modal"> <i class="ion-close-round"></i> </div>
         <div class="clearfix"></div>
         <div class="modal-content">
             <div class="container">
@@ -365,6 +376,32 @@
             </div>
         </div>
     </div>
+
+    <!--DEMO02-->
+    <div id="project2" class="popup-modal">
+            <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID -->
+            <div id="btn-close-modal" class="close-project2 close-popup-modal"> <i class="ion-close-round"></i> </div>
+            <div class="clearfix"></div>
+            <div class="modal-content">
+                <div class="container">
+                    <div class="portfolio-padding">
+                        <div class="col-md-8 col-md-offset-2">
+                            <h2>Arduino Project<br /> Project Using Arduino UNO Board</h2>
+                            <h3>-Language Written in C</h3>
+                            <div class="h-50"></div>
+                            <div class="embed-responsive embed-responsive-16by9">
+                            <iframe allowFullScreen frameborder="10" height="564" mozallowfullscreen src="https://player.vimeo.com/video/259029916" webkitAllowFullScreen width="640"></iframe>
+                            <br /> </div>
+                            <br />
+                            <br />
+                            <p>This was my second Arduino UNO project I did - a very basic project that entailed wiring circuits on a breadboard as shown in the video, with an inline potentiometer and a servo motor. The potentiometer was set a little too high so the servo motor wasn’t moving much in this video. </p>
+                            <p> The power source for this servo is running through the 5v USB connector from my MacBook Air.</p>                    
+                            <br /> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
